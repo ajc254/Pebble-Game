@@ -1,4 +1,4 @@
 # Pebble-Game
-Multithreaded game
+Simulation of a multi-player game, emphasising mutithreading.
 
-Authors: Alexander Cossins, Jordan Tucker
+Authors: Alexander Cossins, Jordan Tucker.
