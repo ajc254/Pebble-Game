@@ -1,4 +1,4 @@
 # Pebble-Game
 Multithreaded game
 
-AUTHORS: Alexander Cossins, Jordan Tucker
+Authors: Alexander Cossins, Jordan Tucker
